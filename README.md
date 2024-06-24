@@ -1,5 +1,6 @@
 
 <img
+        width = "100%"
 		src="./dmc.png"
 		alt="Deepitha M C"
 	/>
